@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="2b8d8802-d33b-4fb4-acd7-3f0529376f75" name="ecommerce@localhost Mapping">
+      <data-sources db="3cb14b20-c866-4099-ae78-c45b094a62ba" />
+      <scope>
+        <node kind="schema" qname="ecommerce" />
+      </scope>
+    </mapping>
+  </component>
+</project>
